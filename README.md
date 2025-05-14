@@ -35,10 +35,10 @@ _Apr 2024 – Present_
   - **Lawfirm** – Admin panel management of page content and client data  
   - **Bamkart** – Handled e-commerce content updates through admin panel  
   - **GSEF** – Managed blog posts and events via admin panel  
-  - **KOKORO-FE** – Updated homepage and therapist info using Strapi  
+  - **KOKORO-FE** – Managed info and homepage content using code and admin panel  
   - **Chatbot** – Created dynamic React pages with backend APIs using Axios  
-  - **Breachlock** – Fetched dynamic data from backend in a React-based UI  
-  - **TrueBlue Mission** – Built complete backend for mobile app using Strapi
+  - **Breachlock** – Worked on the front-end using React, converted static data into dynamic content by fetching data from backend.  
+  - **TrueBlue Mission** – Built complete backend for mobile app one backend using node.js and express.js and another backend using Strapi
 
 ---
 
@@ -48,6 +48,7 @@ _Apr 2024 – Present_
 - **TIC-TAC-TOE** – Simple two-player JavaScript game  
 - **Calculator** – Functional UI calculator using HTML, CSS, JS  
 - **Form UI** – Responsive form built with Tailblocks
+- **Frisson Projects** – Lawfirm, Bamkart, GSEF, KOKORO-FE, Chatbot, Breachlock, TrueBlue Mission.
 
 ---
 
